@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "the world ends (with) you.",
+  "base_artist": "lilbesh ramko",
+  "createdAt": "2026-01-07T09:47:37.622929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "the world ends with you",
+      "artist": "vai5000",
+      "has_synced": true,
+      "path": "select/01_the_world_ends_with_you_vai5000.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The World Ends With You",
+      "artist": "Oh, Manhattan",
+      "has_synced": false,
+      "path": "select/02_The_World_Ends_With_You_Oh,_Manhattan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the world ends with you",
+      "artist": "SHEMYYY",
+      "has_synced": false,
+      "path": "select/03_the_world_ends_with_you_SHEMYYY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The World Ends With You",
+      "artist": "Newgrounds Death Rugby",
+      "has_synced": true,
+      "path": "select/04_The_World_Ends_With_You_Newgrounds_Death_Rugby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hybrid (from The World Ends With You)",
+      "artist": "The Death March",
+      "has_synced": false,
+      "path": "select/05_Hybrid_(from_The_World_Ends_With_You)_The_Death_March.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The World Ends With You",
+      "artist": "Newgrounds Death Rugby",
+      "has_synced": true,
+      "path": "select/06_The_World_Ends_With_You_Newgrounds_Death_Rugby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hybrid -ignis fatuus- (from The World Ends With You)",
+      "artist": "The Death March",
+      "has_synced": false,
+      "path": "select/07_Hybrid_-ignis_fatuus-_(from_The_World_Ends_With_You)_The_Death_March.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Revelation (from The World Ends With You) - Live Remix",
+      "artist": "The Death March",
+      "has_synced": false,
+      "path": "select/08_Revelation_(from_The_World_Ends_With_You)_-_Live_Remix_The_Death_March.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "RUN AWAY (from The World Ends With You) - Solo Remix",
+      "artist": "The Death March",
+      "has_synced": false,
+      "path": "select/09_RUN_AWAY_(from_The_World_Ends_With_You)_-_Solo_Remix_The_Death_March.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the world ends (with) you.",
+      "artist": "lilbesh ramko",
+      "has_synced": false,
+      "path": "select/pl_01_the_world_ends_(with)_you._lilbesh_ramko.txt"
+    }
+  ]
+}
